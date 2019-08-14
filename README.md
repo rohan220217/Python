@@ -1,2 +1,0 @@
-# Phython
-Simple Python project
