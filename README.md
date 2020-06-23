@@ -1,2 +1,2 @@
-# Phython
+# Python
 Simple Python project
